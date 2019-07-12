@@ -1,0 +1,18 @@
+#logo{
+  position: relative;
+  text-align:center;
+  top:150px;
+}
+
+#search-bar{
+  position: relative;
+  text-align:center;
+  top:200px;
+}
+
+.main-buttons{
+  position: relative;
+  text-align:center;
+  top:220px;
+  
+}
